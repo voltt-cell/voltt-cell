@@ -1,4 +1,5 @@
-(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+<img width="1367" alt="Screen Shot 2023-03-13 at 2 55 41 PM" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
+
 <p align="center">
   <br>
   <br>
